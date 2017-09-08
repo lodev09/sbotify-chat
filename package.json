@@ -1,0 +1,22 @@
+{
+  "name": "sbotify-chat",
+  "version": "1.0.0",
+  "description": "Chat interface for sbotify-ai",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/electron/electron-quick-start",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "Jovanni Lo <lodev09@gmail.com>",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "~1.6.2"
+  }
+}
